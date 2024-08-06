@@ -6,4 +6,5 @@ function print(){
     console.log(msg);
 }
 print();
+
 })();
